@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Super!Market</string>
+    <string name="todo">TODO</string>
+    <string name="add_resturant">Add Resturant:</string>
+    <string name="name">Name</string>
+    <string name="address">Address:</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="resturant_name">Resturant Name:</string>
+    <string name="save">Save</string>
+    <string name="off">Off</string>
+</resources>
